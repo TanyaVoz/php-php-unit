@@ -1,0 +1,2 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/php-parse","time":"2023-05-22T09:50:55Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vendor/bin/phpunit","time":"2023-05-22T09:50:55Z"}
